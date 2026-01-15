@@ -1,0 +1,7 @@
+User
+  ↓
+Application (Web/Mobile)
+  ↓
+Server (Backend Logic)
+  ↓
+Database
